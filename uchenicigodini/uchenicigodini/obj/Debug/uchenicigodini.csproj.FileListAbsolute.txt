@@ -1,0 +1,8 @@
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\bin\Debug\uchenicigodini.exe.config
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\bin\Debug\uchenicigodini.exe
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\bin\Debug\uchenicigodini.pdb
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\obj\Debug\uchenicigodini.csproj.AssemblyReference.cache
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\obj\Debug\uchenicigodini.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\obj\Debug\uchenicigodini.csproj.CoreCompileInputs.cache
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\obj\Debug\uchenicigodini.exe
+C:\Users\bobyt\Desktop\VS FILES\uchenicigodini\uchenicigodini\obj\Debug\uchenicigodini.pdb
